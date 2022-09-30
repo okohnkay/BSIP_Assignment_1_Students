@@ -1,4 +1,4 @@
-1 Age,Eduacation,Race,Hisp,MaritalStatus,Nodeg,Earnings_1974,Earnings_1975,Earnings_1978
+Age,Eduacation,Race,Hisp,MaritalStatus,Nodeg,Earnings_1974,Earnings_1975,Earnings_1978
 45,LessThanHighSchool,NotBlack,NotHispanic,Married,1,21516.67,25243.55,25564.67
 21,Intermediate,NotBlack,NotHispanic,NotMarried,0,3175.971,5852.565,13496.08
 38,HighSchool,NotBlack,NotHispanic,Married,0,23039.02,25130.76,25564.67
